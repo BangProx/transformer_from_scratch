@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+implementing-transformers-from-scratch-using-pytor.ipynb
+transformer-from-scratch-with-pytorch.ipynb
+reference/
 __pycache__/
 *.py[cod]
 *$py.class
